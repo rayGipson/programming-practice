@@ -1,6 +1,6 @@
 # Programming Practice
 
-Daily exercises and projects to build data engineering fundamentals.
+Exercises and projects to build data engineering fundamentals.
 
 ## Purpose
 
